@@ -1,15 +1,13 @@
 <div align="center">
 
 <!-- ============================================================ -->
-<!--               HERO: ANIMATED CODING ROOM                    -->
+<!--         HERO BANNER — capsule-render (URL-based, no file)   -->
 <!-- ============================================================ -->
 
-<img src="./hero.svg" alt="Ahmed's Coding Room" width="100%"/>
-
-<br/>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:6C63FF,100:0ea5e9&height=220&section=header&text=Ahmed%20Mohamed%20Azarki&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Python%20Developer%20%7C%20FastAPI%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=14&animation=fadeIn)](https://github.com/ahmedmohamedazarki-ops)
 
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Full+Stack+Developer+%26+Python+Engineer;FastAPI+%E2%80%A2+Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Building+Sports+Platforms+%26+Anime+APIs+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=750&height=70&lines=🏟️+Building+Sports+Platforms+%7C+SofaScore-Inspired;🎌+Crafting+Anime+APIs+with+FastAPI+%26+Redis;🤖+AI+Pipelines+%7C+LangChain+%7C+OpenAI;🚀+Scalable+Systems+%7C+Docker+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 <br/>
 
@@ -213,12 +211,7 @@ I believe in:
 *Open to collaborations, freelance projects, and interesting conversations.*
 *If you're building something ambitious — let's talk.* 🚀
 
-</div>
-
----
-
-<div align="center">
-
-*Crafted with care by Ahmed Mohamed Azarki — because details matter.*
+<!-- Footer wave -->
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6C63FF,100:0a0a1a&height=100&section=footer)](https://github.com/ahmedmohamedazarki-ops)
 
 </div>
