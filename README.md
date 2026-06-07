@@ -1,13 +1,19 @@
 <div align="center">
 
-# Ahmed Mohamed Azarki
+<!-- ============================================================ -->
+<!--               HERO: ANIMATED CODING ROOM                    -->
+<!-- ============================================================ -->
 
-### Full Stack Developer · Python Engineer · Open Source Builder
+<img src="./hero.svg" alt="Ahmed's Coding Room" width="100%"/>
 
-`FastAPI` · `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Docker`
+<br/>
 
----
+<!-- Animated Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Full+Stack+Developer+%26+Python+Engineer;FastAPI+%E2%80%A2+Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Building+Sports+Platforms+%26+Anime+APIs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<br/>
+
+<!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmohamedazarki)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedazarki)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedazarki.dev)
